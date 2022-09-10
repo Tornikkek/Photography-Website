@@ -270,7 +270,7 @@ h4 {
       #100f0ff5,
       rgba(15, 15, 15, 0.774)
     ),
-    url(/images/reviews\ background.jpg);
+    url(./images/reviews\ background.jpg);
   background-size: cover;
   height: 110vh;
   padding: 5rem 0;
